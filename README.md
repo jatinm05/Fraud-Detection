@@ -17,5 +17,3 @@ This project designs and implements a relational database schema and advanced SQ
 2. Populate tables with transaction data.
 3. Execute provided views to identify potential fraud cases.
 4. Query views to generate reports or integrate with data visualization tools.
-
-## Example Query
